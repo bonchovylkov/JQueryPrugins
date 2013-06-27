@@ -1,0 +1,43 @@
+﻿body {
+}
+
+a {
+    text-decoration:none;
+    color:white;
+}
+#tree{
+    margin-left:50px;
+}
+li{
+    border:1px solid black;
+    width:200px;
+    margin:5px;
+    background-color:skyblue;
+    list-style:none;
+    padding-left:10px;
+    border-radius:5px;
+    box-shadow:5px 6px;
+    position:relative;
+    left:-20px;
+}
+.expand{
+    display:block;
+}
+.hidden{
+    display:none;
+}
+
+
+
+/*.expand{
+    
+}
+.hidden{
+   display:none;
+}
+.yes{
+
+}
+.no{
+
+}*/
